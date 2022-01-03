@@ -83,4 +83,5 @@ body {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     color: #332902;
+    cursor: pointer;
 }
